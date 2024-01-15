@@ -89,7 +89,6 @@ class CustomController extends Controller
 }
 ~~~
 
-You can find more information at <https://github.com/tbreuss/yii2-inertia>.
 
 ### In the frontend
 
@@ -99,8 +98,3 @@ You can find more information at <https://github.com/tbreuss/yii2-inertia>.
 - use frontend tooling as described here and in package.json
 
 You can find more information at <https://inertiajs.com>.
-
-## Credits
-
-- Original work by Jonathan Reinink (@reinink) and contributors
-- Port to Yii 2 by Thomas Breuss (@tbreuss)
